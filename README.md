@@ -27,5 +27,8 @@
 10. [Class 10](Class-10/05-09.md)
 11. [Class 11](Class-11/08-09.md)
 12. [Class 12](Class-12/12-09.md)
+13. [Class 13](Class-13/26-09.md)
+13. [Class 14](Class-14/29-09.md)
+13. [Class 15](Class-15/06-10.md)
 
 [notes](notes.md)
