@@ -32,5 +32,7 @@
 13. [Class 15](Class-15/06-10.md)
 13. [Class 16](Class-16/10-10.md)
 13. [Class 17](Class-17/13-10.md)
+13. [Class 18](Class-18/20-10.md)
+13. [Class 19](Class-19/24-10.md)
 
 [notes](notes.md)
