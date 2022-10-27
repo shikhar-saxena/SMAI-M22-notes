@@ -20,5 +20,6 @@
 13. [Class 17 (NPTEL Video)](Class-17/13-10.pdf)
 13. [Class 18](Class-18/20-10.pdf)
 13. [Class 19](Class-19/24-10.pdf)
+13. [Class 20](Class-20/27-10.pdf)
 
 [notes](notes.md)
