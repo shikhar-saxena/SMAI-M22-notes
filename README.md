@@ -1,5 +1,7 @@
 # SMAI Monsoon 22
 
+Notes for some classes might be incomplete.
+
 1. Introduction
     - Ref: DHS (Duda, Hart, Stork)
 2. [Class 2](Class-2/01-08.pdf)
@@ -21,5 +23,6 @@
 13. [Class 18](Class-18/20-10.pdf)
 13. [Class 19](Class-19/24-10.pdf)
 13. [Class 20](Class-20/27-10.pdf)
+13. [Class 21](Class-21/31-10.pdf)
 
 [notes](notes.md)
