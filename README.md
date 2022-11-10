@@ -24,5 +24,7 @@ Notes for some classes might be incomplete.
 13. [Class 19](Class-19/24-10.pdf)
 13. [Class 20](Class-20/27-10.pdf)
 13. [Class 21](Class-21/31-10.pdf)
+13. [Class 22](Class-22/03-11.pdf)
+13. [Class 23](Class-23/07-11.pdf)
 
 [notes](notes.md)
